@@ -2,4 +2,7 @@
 A script that prints the absolute path name of the current working directory
 
 # 1-listit
-A scrit that prints the contents of its current directory 
+A script that prints the contents of its current directory 
+
+# 2-bring_me_home
+A script that changes working directory to user's home directory
