@@ -21,3 +21,6 @@ A script that creates a directory named "my_first_directory" in the /tmp/ direct
 
 # 7-movethatfile
 A script that moves a file from one location to another
+
+# 8-firstdelete
+A script that deletes a file from a directory
