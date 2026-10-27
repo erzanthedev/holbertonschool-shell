@@ -6,3 +6,7 @@ A script that prints the contents of its current directory
 
 # 2-bring_me_home
 A script that changes working directory to user's home directory
+
+# 3-listfiles
+A script that displays current directory contents in a long format
+
