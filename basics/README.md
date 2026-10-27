@@ -37,3 +37,5 @@ A script that list all files in the current, parent and /boot directory in order
 # 12-file_type
 A script that prints the type of file
 
+# 13-symbolic_link
+A script that creates a symbolic link
