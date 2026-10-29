@@ -8,4 +8,4 @@ A script that prints confused smiley
 A script that prints contents of a file
 
 # 3-twofiles
-A script that prints contents of a file
+A script that prints contents of two files at once
