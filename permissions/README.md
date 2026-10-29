@@ -24,3 +24,6 @@ Script to give everyone execute permissions
 
 # 8-James_Bond
 Script to give others  execute permissions only
+
+# 9-John_Doe
+Script to set the mode of file to -rwxr-x-wx
