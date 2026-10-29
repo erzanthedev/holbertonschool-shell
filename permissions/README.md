@@ -9,3 +9,6 @@ Script to print user groups
 
 # 3-new_owner
 Script to owner of a file
+
+# 4-empty
+Script to create an empty file
