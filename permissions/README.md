@@ -36,3 +36,6 @@ Script to execute permissions to all subdirectories of the current dir for owner
 
 # 12-directory_permissions
 Script to create directory with permissions
+
+# 13-change_group
+Script to change group owner of a file
