@@ -33,3 +33,6 @@ Script to mirror permissions of one file to the other
 
 # 11-directories_permissions
 Script to execute permissions to all subdirectories of the current dir for owner, group and all others
+
+# 12-directory_permissions
+Script to create directory with permissions
