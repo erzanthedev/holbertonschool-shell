@@ -45,3 +45,6 @@ Script to change owner and group for all files and directories
 
 # 15-symbolic_link_permissions
 Script to execute changes to owner and group owner respectively
+
+# 16-if_only
+Script to execute if only permissions
