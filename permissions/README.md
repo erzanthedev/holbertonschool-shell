@@ -21,3 +21,6 @@ Script to execute a file with multiple permissions
 
 # 7-everybody
 Script to give everyone execute permissions
+
+# 8-James_Bond
+Script to give others  execute permissions only
