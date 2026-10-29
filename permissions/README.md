@@ -18,3 +18,6 @@ Script to execute a file by owner only
 
 # 6-multiple_permissions
 Script to execute a file with multiple permissions
+
+# 7-everybody
+Script to give everyone execute permissions
