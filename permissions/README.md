@@ -30,3 +30,6 @@ Script to set the mode of file to -rwxr-x-wx
 
 # 10-mirror_permissions
 Script to mirror permissions of one file to the other
+
+# 11-directories_permissions
+Script to execute permissions to all subdirectories of the current dir for owner, group and all others
