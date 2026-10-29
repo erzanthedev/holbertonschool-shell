@@ -15,3 +15,6 @@ Script to create an empty file
 
 # 5-execute
 Script to execute a file by owner only
+
+# 6-multiple_permissions
+Script to execute a file with multiple permissions
