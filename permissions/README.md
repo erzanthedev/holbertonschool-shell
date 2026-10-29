@@ -27,3 +27,6 @@ Script to give others  execute permissions only
 
 # 9-John_Doe
 Script to set the mode of file to -rwxr-x-wx
+
+# 10-mirror_permissions
+Script to mirror permissions of one file to the other
