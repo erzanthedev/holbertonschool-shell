@@ -40,5 +40,8 @@ Script to create directory with permissions
 # 13-change_group
 Script to change group owner of a file
 
-# 15-change_owner_and_group
+# 14-change_owner_and_group
 Script to change owner and group for all files and directories
+
+# 15-symbolic_link_permissions
+Script to execute changes to owner and group owner respectively
