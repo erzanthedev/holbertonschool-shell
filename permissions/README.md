@@ -6,3 +6,6 @@ Script to print who the current user is
 
 # 2-groups
 Script to print user groups
+
+# 3-new_owner
+Script to owner of a file
