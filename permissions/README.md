@@ -12,3 +12,6 @@ Script to owner of a file
 
 # 4-empty
 Script to create an empty file
+
+# 5-execute
+Script to execute a file by owner only
