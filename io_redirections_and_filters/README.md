@@ -6,3 +6,6 @@ A script that prints confused smiley
 
 # 2-hellofile
 A script that prints contents of a file
+
+# 3-twofiles
+A script that prints contents of a file
