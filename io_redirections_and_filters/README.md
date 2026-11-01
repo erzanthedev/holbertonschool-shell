@@ -45,3 +45,6 @@ script to find a word
 
 # 15-countthatword
 script to count a matching word
+
+# 16-whatsnext
+script to find pattern words
