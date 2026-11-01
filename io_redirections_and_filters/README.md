@@ -27,3 +27,6 @@ Script to save the current state of directory
 
 # 9-duplicate_last_line
 Script to duplicate last line of a file
+
+# 10-no_more_js
+script to delete .js files in current directory and it's subfolders
