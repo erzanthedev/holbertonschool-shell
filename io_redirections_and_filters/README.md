@@ -33,3 +33,6 @@ script to delete .js files in current directory and it's subfolders
 
 # 11-directories
 Script to count directories
+
+# 12-newest_files
+script to display 10 newest lines
