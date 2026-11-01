@@ -36,3 +36,6 @@ A script that converts binary to decimal
 
 # 12-combinations
 A script that prints all possible combinations of two letters execpt 00
+
+# 13-print_float
+A script that prints all possible combinations of two letters execpt 00
