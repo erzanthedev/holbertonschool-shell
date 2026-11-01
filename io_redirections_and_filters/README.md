@@ -51,3 +51,6 @@ script to hide a word
 
 # 16-whatsnext
 script to find pattern words
+
+# 18-letteronly
+scirpt to print letters only
