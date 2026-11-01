@@ -57,3 +57,6 @@ scirpt to print letters only
 
 # 19-AZ
 Script to replace A C characters with Z E
+
+# 20-hiago
+script that removes all letters cC from input
