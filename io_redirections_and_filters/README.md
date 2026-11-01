@@ -24,3 +24,6 @@ Shows how to work with special characters
 
 # 8-cwd_state
 Script to save the current state of directory
+
+# 9-duplicate_last_line
+Script to save the current state of directory
