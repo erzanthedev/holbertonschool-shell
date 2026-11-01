@@ -6,3 +6,6 @@ A script that prints hello user
 
 # 2-path
 A script that tackles task 2
+
+# 3-paths
+A script that counts the number of directories
