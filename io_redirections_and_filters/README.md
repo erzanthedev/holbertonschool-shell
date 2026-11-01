@@ -60,3 +60,6 @@ Script to replace A C characters with Z E
 
 # 20-hiago
 script that removes all letters cC from input
+
+# 21-reverse
+script that reverse input
