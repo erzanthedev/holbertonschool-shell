@@ -24,3 +24,6 @@ A script that create new global  variables
 
 # 8-true_knowledge
 A script that prints arithmetic ops
+
+# 9-divide_and_rule
+A script that performs more arithmetic ops
