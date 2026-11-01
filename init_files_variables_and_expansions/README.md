@@ -27,3 +27,6 @@ A script that prints arithmetic ops
 
 # 9-divide_and_rule
 A script that performs more arithmetic ops
+
+# 10_love_exponent_breath
+A script that display result of BREATH to the power of LOVE
