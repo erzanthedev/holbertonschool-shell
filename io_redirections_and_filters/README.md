@@ -54,3 +54,6 @@ script to find pattern words
 
 # 18-letteronly
 scirpt to print letters only
+
+# 19-AZ
+Script to replace A C characters with Z E
