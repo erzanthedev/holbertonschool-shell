@@ -39,3 +39,6 @@ A script that prints all possible combinations of two letters execpt 00
 
 # 13-print_float
 A script that prints all possible combinations of two letters execpt 00
+
+# 14-decimal_to_hexa
+A script that converts decimal to hexadecimal
