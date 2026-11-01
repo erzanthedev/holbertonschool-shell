@@ -28,8 +28,11 @@ A script that prints arithmetic ops
 # 9-divide_and_rule
 A script that performs more arithmetic ops
 
-# 10_love_exponent_breath
+# 10-love_exponent_breath
 A script that display result of BREATH to the power of LOVE
 
-# 11_binary_to_decimal
+# 11-binary_to_decimal
 A script that converts binary to decimal
+
+# 12-combinations
+A script that prints all possible combinations of two letters execpt 00
