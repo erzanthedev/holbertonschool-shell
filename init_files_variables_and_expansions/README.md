@@ -21,3 +21,6 @@ A script that create new local  variables
 
 # 7-create_global_variables
 A script that create new global  variables
+
+# 8-true_knowledge
+A script that prints arithmetic ops
