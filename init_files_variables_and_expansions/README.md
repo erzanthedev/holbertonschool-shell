@@ -18,3 +18,6 @@ A script that prints local  variables
 
 # 6-create_local_variables
 A script that create new local  variables
+
+# 7-create_global_variables
+A script that create new global  variables
