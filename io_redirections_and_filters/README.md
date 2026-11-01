@@ -30,3 +30,6 @@ Script to duplicate last line of a file
 
 # 10-no_more_js
 script to delete .js files in current directory and it's subfolders
+
+# 11-directories
+Script to count directories
