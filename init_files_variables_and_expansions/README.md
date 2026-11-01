@@ -11,4 +11,7 @@ A script that tackles task 2
 A script that counts the number of directories
 
 # 4-global_variables
-A script that prints global varaibles
+A script that prints global variables
+
+# 5-local_variables
+A script that prints local  variables
