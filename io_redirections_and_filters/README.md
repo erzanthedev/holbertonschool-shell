@@ -42,3 +42,6 @@ script to sort and remove duplicates
 
 # 14-findthatword
 script to find a word
+
+# 15-countthatword
+script to count a matching word
