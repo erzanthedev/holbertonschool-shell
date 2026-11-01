@@ -30,3 +30,6 @@ A script that performs more arithmetic ops
 
 # 10_love_exponent_breath
 A script that display result of BREATH to the power of LOVE
+
+# 11_binary_to_decimal
+A script that converts binary to decimal
