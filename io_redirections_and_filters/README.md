@@ -21,3 +21,6 @@ displays the third line of the file iacta
 
 # 7-file
 Shows how to work with special characters
+
+# 8-cwd_state
+Script to save the current state of directory
