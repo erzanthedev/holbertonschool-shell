@@ -36,3 +36,6 @@ Script to count directories
 
 # 12-newest_files
 script to display 10 newest lines
+
+# 13-unique
+script to sort and remove duplicates
