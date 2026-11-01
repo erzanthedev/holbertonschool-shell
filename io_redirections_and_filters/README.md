@@ -26,4 +26,4 @@ Shows how to work with special characters
 Script to save the current state of directory
 
 # 9-duplicate_last_line
-Script to save the current state of directory
+Script to duplicate last line of a file
