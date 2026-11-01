@@ -39,3 +39,6 @@ script to display 10 newest lines
 
 # 13-unique
 script to sort and remove duplicates
+
+# 14-findthatword
+script to find a word
